@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(14, 13, 13);
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+h1 {
+    color: rgb(43, 201, 69);
+    font-family: monospace;
+}
+button {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(41, 38, 38);
+    color: rgb(37, 197, 98);
+    height: 50px;
+    width: 100px; 
+    border-radius: 15px;
+    border-style: solid;
+    border-color: rgb(70, 184, 104);
+}
+a {
+    color: rgb(43, 201, 69);
+}
